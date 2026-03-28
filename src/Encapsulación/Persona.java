@@ -21,4 +21,3 @@ public class Persona {
     public String getApellido() { return apellido; }
     public int    getEdad()     { return edad; }
 }
-
